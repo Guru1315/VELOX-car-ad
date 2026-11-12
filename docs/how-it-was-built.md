@@ -61,3 +61,5 @@ The original was built with Tailwind v3. A few of its classes behave differently
   - Nav and footer links go to real sections or pages.
 
   See [how it works](how-it-works.md).
+  
+## No source code provided in this repo for the security issues
