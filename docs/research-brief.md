@@ -1,8 +1,3 @@
-# VELOX landing page brief
-
-Source: `http://localhost:3100/` (Next.js 14 dev server for GitHub `alagappan567/car`, code at `F:\car-source`).
-Local: `/` → `src/app/page.tsx` → `src/components/sites/velox/`.
-
 ## Route map
 
 | Source | Local | Notes |
